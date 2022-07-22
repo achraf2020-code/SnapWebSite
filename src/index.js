@@ -7,14 +7,14 @@ import Nav from './components/navBar/Nav';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <div className='hero'>
+    <section className='hero'>
     <div className='container'> 
       <div className='full-width'>
           <Nav/>
       </div>
      
     </div>
-    </div>
+    </section>
   </React.StrictMode>
 );
 
