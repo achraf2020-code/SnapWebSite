@@ -9,13 +9,12 @@ body{
 .container{
   width: 1440px;
   margin: 0 auto;
+  
 }
 .bg-blur{
   background: rgba(0,0,0,0.8);
 }
 .full-width{
-  width:100%;
-  margin: 0 auto;
   position: relative;
 }
 .relative-pos{
