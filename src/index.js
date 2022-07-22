@@ -9,8 +9,9 @@ root.render(
   <React.StrictMode>
     <div className='container'> 
       <div className='full-width'>
-    </div>
       <Nav/>
+    </div>
+     
     </div>
   
   </React.StrictMode>
