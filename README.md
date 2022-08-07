@@ -1,4 +1,4 @@
-# snapWebSite
+# snap web site
 
 Snap Web Site creating with ReactJS
 
