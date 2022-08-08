@@ -72,12 +72,12 @@ self.__precacheManifest = [
     "url": "/static/media/icon-close-menu.84f79f09.svg"
   },
   {
-    "revision": "12751c5e883aacbfe3e5123637a19485",
-    "url": "/static/media/image-hero-desktop.12751c5e.png"
-  },
-  {
     "revision": "dcd083eb52eee971602abfa35296c217",
     "url": "/static/media/image-hero-mobile.dcd083eb.png"
+  },
+  {
+    "revision": "12751c5e883aacbfe3e5123637a19485",
+    "url": "/static/media/image-hero-desktop.12751c5e.png"
   },
   {
     "revision": "150aeae50673ff132c61ea1f5ac2914b",

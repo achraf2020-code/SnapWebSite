@@ -20,10 +20,10 @@
   "static/media/icon-todo.svg": "/static/media/icon-todo.630a69a8.svg",
   "static/media/icon-menu.svg": "/static/media/icon-menu.bbcce338.svg",
   "static/media/icon-close-menu.svg": "/static/media/icon-close-menu.84f79f09.svg",
-  "static/media/Hero.css": "/static/media/image-hero-mobile.dcd083eb.png",
+  "static/media/Hero.css": "/static/media/image-hero-desktop.12751c5e.png",
   "static/css/main.1ca087d7.chunk.css.map": "/static/css/main.1ca087d7.chunk.css.map",
   "static/css/1.e22ac2a2.chunk.css.map": "/static/css/1.e22ac2a2.chunk.css.map",
   "index.html": "/index.html",
-  "precache-manifest.d9e4b7d2e454258741e7e21ee63af3b9.js": "/precache-manifest.d9e4b7d2e454258741e7e21ee63af3b9.js",
+  "precache-manifest.4016e1510efdcf36bb7b3ed0ae414c63.js": "/precache-manifest.4016e1510efdcf36bb7b3ed0ae414c63.js",
   "service-worker.js": "/service-worker.js"
 }
