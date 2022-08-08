@@ -22,7 +22,7 @@ Verify by navigating to your server address in
 your preferred browser.
 
 ```sh
-127.0.0.1:300
+127.0.0.1:3000
 ```
 ### Deployment
 This site was deployed here: [https://achrafcodesnapwebsite.netlify.app]()
