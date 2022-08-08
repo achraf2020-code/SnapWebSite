@@ -25,7 +25,7 @@ your preferred browser.
 127.0.0.1:3000
 ```
 ### Deployment
-This site was deployed here: [https://achrafcodesnapwebsite.netlify.app]()
+This site was deployed here: [https://achrafcodesnapwebsite.netlify.app/]()
 
 ## Tech
 
